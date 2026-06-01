@@ -938,7 +938,6 @@ ul { list-style: none; }
 .footer-logo {
   height: 52px;
   margin-bottom: 12px;
-  filter: brightness(10);
 }
 .footer-brand h3 {
   font-family: 'Baloo 2', cursive;
